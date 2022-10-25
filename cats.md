@@ -12,16 +12,16 @@ Content comes from [submodulesIES-entertainment](https://github.com/wisniewski-m
 
 ## 1. Meme
 
-![alt_text](cats_01.jpg)
+![alt_text]({{ site.url }}{{ site.baseurl }}/entertainment/cats_01.jpg)
 
 ---
 
 ## 2. Meme
 
-![alt_text](cats_02.jpeg)
+![alt_text]({{ site.url }}{{ site.baseurl }}/entertainment/cats_02.jpeg)
 
 ---
 
 ## 3. Meme
 
-![alt_text](cats_03.jpg)
+![alt_text]({{ site.url }}{{ site.baseurl }}/entertainment/cats_03.jpg)

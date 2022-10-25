@@ -12,16 +12,16 @@ Content comes from [submodulesIES-entertainment](https://github.com/wisniewski-m
 
 ## 1. Meme
 
-![alt_text](https://wisniewski-mateusz.github.io/submodulesIES/entertainment/dogs_01.jpg)
+![alt_text]({{ site.url }}{{ site.baseurl }}/entertainment/dogs_01.png)
 
 ---
 
 ## 2. Meme
 
-![alt_text](dogs_02.png)
+![alt_text]({{ site.url }}{{ site.baseurl }}/entertainment/dogs_02.png)
 
 ---
 
 ## 3. Meme
 
-![alt_text](dogs_03.png)
+![alt_text]({{ site.url }}{{ site.baseurl }}/entertainment/dogs_03.png)
