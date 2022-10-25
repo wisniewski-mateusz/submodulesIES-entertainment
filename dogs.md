@@ -12,7 +12,7 @@ Content comes from [submodulesIES-entertainment](https://github.com/wisniewski-m
 
 ## 1. Meme
 
-![alt_text](dogs_01.png)
+![alt_text](/_entertainment/dogs_01.png)
 
 ---
 
